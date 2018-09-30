@@ -1,0 +1,10 @@
+<li class="burger-item">
+    <i class="fa fa-check"></i> <span class="burger-name"> {{burger_name}}</span>
+    <br>
+    <img class="burger-pic" src='{{image_url}}'>
+    <br>
+    <button class="btn btn-md btn-primary change-devour" data-id="{{id}}" data-devoured="{{devour}}">
+        {{#if devour}}Devour!{{else}} Order Another!{{/if}} 
+    </button>
+    <button class="btn btn-md btn-danger delete-burger" data-id="{{this.id}}">Delete</button>
+</li>

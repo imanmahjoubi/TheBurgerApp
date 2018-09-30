@@ -1,0 +1,30 @@
+.burger-pic {
+    width: 5rem;
+    margin-bottom: .25rem;
+}
+
+.submit-btn {
+    margin-bottom: 3rem;
+}
+
+.burger-name {
+    font-family: 'Merienda', cursive;    color: blue;
+    font-size: 20px;
+}
+body {
+    font-family: 'Merienda', cursive;
+}
+
+.burger-item {
+    list-style-type: none;
+    font-size: 20px;
+}
+.jumbotron {
+    background-image: url("../css/baby_burgers.png");
+    color: black !important;
+}
+h1{
+    font-size: 55px;
+    font-style: revert;
+
+}
