@@ -10,4 +10,6 @@
 - node server.js
 - go to localhost:8080
 
+![Screenshot](public/css/screenshot.png)
+
 ## Enjoy
